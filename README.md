@@ -1,1 +1,1 @@
-# machine_learning_practice1
+# this is First from the scratch project on machine learning
